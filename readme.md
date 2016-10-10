@@ -1,3 +1,10 @@
+KAR: Other options: 
+1. This 
+2. Try this: https://www.kaggle.com/c/facial-keypoints-detection/forums/t/19294/use-tensorflow-based-cnn-to-detect-facial-keypoints/131961
+3. OpenFace (?) 
+4. Combination of OpenCV, Dlib and TF ? 
+
+
 Face recognition using Tensor Flow
 ======================
 I developed this to learn how Tensor Flow worked. Its no longer being maintained. However you should be able to use the vgg_face model in tensorflow. 

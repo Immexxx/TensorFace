@@ -4,7 +4,7 @@ KAR: Other options:
 
 2. Try this: https://www.kaggle.com/c/facial-keypoints-detection/forums/t/19294/use-tensorflow-based-cnn-to-detect-facial-keypoints/131961
 
-3. OpenFace (?) 
+3. OpenFace (See - https://github.com/Immexxx/TensorFace/tree/master/openface) 
 
 4. Combination of OpenCV, Dlib and TF ? 
 

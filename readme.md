@@ -14,9 +14,12 @@ Other Notes
 Uses Fabric - fabfile.py 
 
 $ fab hello
+
 Hello world!
 
 Use the def's in the fab to call libraries from the command line. Like: "setup", etc 
+
+
 
 
 
